@@ -1,0 +1,44 @@
+#name1{
+    font-family: monspace;
+    color: red;
+}
+
+h3{
+    text-align: left;
+}
+
+p{
+    text-align: left;
+    padding: 2px;
+ }
+
+h1{
+    text-align: center;
+    padding: 3px;
+  }
+
+h4{
+    text-align: left;
+}
+
+h5{
+    text-align: left;
+  }
+
+body{
+    background-color: grey;
+    text-align: center;
+
+}
+
+th{
+    padding: 40px;
+}
+
+td{
+    padding: 10px;
+}
+
+table{
+    margin:auto;
+}
